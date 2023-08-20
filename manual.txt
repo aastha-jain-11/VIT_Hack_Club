@@ -1,0 +1,10 @@
+To view the project open  -   source_code >> index.html
+It is recommended to open index.html in Chrome browser
+
+The source_code directory contains all the source code in follows:
+1. index.html
+2. script.js
+3. style.css
+
+*As all the assets are imported from the internet, Kindly give the website a few 
+moments to load :) *
